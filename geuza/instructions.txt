@@ -1,0 +1,23 @@
+->Geuza installation instructions
+
+    1. Open app/config/config.php
+
+    2. Change GEUZALINK to your Geuza deployment's URL
+
+    3. Open the GEUZALINK url in your browser
+
+->Directory description
+
+    ->{root directory}
+        index.php -> houses the application's file
+        .htaccess -> stops users from browsing the app/, public/ and vendor/ directories
+        
+    ->app/
+        Where key application files reside
+    
+
+    public/
+        Where publically-accessible files reside
+
+    vendor/
+        Where third-party scripts reside
