@@ -110,6 +110,6 @@ If you remove this, edit app/pages/header.php and app/pages/footer.php
 */
 if(!defined('DOWNLOADLINK')){
     
-    define('DOWNLOADLINK',"https://github.com/AminaKombo/Geuza");
+    define('DOWNLOADLINK',"https://github.com/AminaKombo/Geuza/archive/master.zip");
 
 }//if
