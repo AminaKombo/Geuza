@@ -1,4 +1,4 @@
-# Geuza v1.3.beta (stable)
+# Geuza v1.3 (stable)
 Currency converter in PHP
 
 Exchange rate data courtesy of Google&trade; Finance
