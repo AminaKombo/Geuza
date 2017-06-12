@@ -76,7 +76,7 @@ class Geuza{
 
                 $rate = preg_replace("/[^0-9\.]/", null, $get[0]);
 
-                $converted_amount = $this->amount*$rate;
+                $converted_amount = $rate;
 
             }//if
             else{
