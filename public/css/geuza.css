@@ -58,6 +58,7 @@ label{
     font-size:36px; 
     margin:15px; 
     display:block;
+    overflow-wrap: break-word;
 }
 
 .ge-currency{
